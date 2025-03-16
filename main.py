@@ -18,7 +18,7 @@ def home():
         <title>Bruzz Chatbot</title>
         <style>
             body {
-                background-image: url('sigmasigmaboy.jpg'); 
+                background-image: url('./sigmasigmaboy.jpg'); 
                 background-size: cover;
                 background-position: center;
                 font-family: Arial, sans-serif;
